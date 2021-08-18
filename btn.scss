@@ -1,3 +1,8 @@
 $primary: purple;
-
+$grid-breakpoints: (
+    md: 768px,
+);
+$container-max-widths: (
+    md: 700px,
+);
 @import "node_modules/bootstrap/scss/bootstrap";
